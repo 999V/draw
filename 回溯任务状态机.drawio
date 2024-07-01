@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-29T06:56:04.934Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="E5uUOKsCiaEiGqwzp7GX" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-01T03:20:57.022Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="P8VxLnXt_VpZ4t2mURzS" version="24.6.4" type="github">
   <diagram name="第 1 页" id="bsrdlGBzL4-s972n8e0l">
-    <mxGraphModel dx="1468" dy="894" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3191" dy="1725" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -146,6 +146,15 @@
         </mxCell>
         <mxCell id="41C0HAjjGuZ0uLDlRaci-33" value="初始化异常" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="501" y="1509" width="78" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="41C0HAjjGuZ0uLDlRaci-37" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;startTask()&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="222" y="1387" width="74" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="41C0HAjjGuZ0uLDlRaci-38" value="initData()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="464.5" y="1387" width="67" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="41C0HAjjGuZ0uLDlRaci-39" value="executeModel()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="632" y="1387" width="101" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
