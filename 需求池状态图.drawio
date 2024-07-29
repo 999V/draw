@@ -16,6 +16,9 @@
         <mxCell id="sgNHsKeXC-34GHNsJ1Wm-2" value="提交中" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="480" y="1415" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="sgNHsKeXC-34GHNsJ1Wm-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sgNHsKeXC-34GHNsJ1Wm-3" target="sgNHsKeXC-34GHNsJ1Wm-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sgNHsKeXC-34GHNsJ1Wm-3" value="离线验收中" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="280" y="1840" width="80" height="80" as="geometry" />
         </mxCell>
@@ -207,6 +210,41 @@
         </mxCell>
         <mxCell id="sgNHsKeXC-34GHNsJ1Wm-65" value="特征类型" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="1679.5" width="80" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="sgNHsKeXC-34GHNsJ1Wm-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sgNHsKeXC-34GHNsJ1Wm-78" target="sgNHsKeXC-34GHNsJ1Wm-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sgNHsKeXC-34GHNsJ1Wm-78" value="创建离线验收&lt;span style=&quot;background-color: initial;&quot;&gt;工单&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1990" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sgNHsKeXC-34GHNsJ1Wm-82" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="sgNHsKeXC-34GHNsJ1Wm-80" target="sgNHsKeXC-34GHNsJ1Wm-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="880" y="2107" />
+              <mxPoint x="880" y="1455" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sgNHsKeXC-34GHNsJ1Wm-83" value="通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sgNHsKeXC-34GHNsJ1Wm-82">
+          <mxGeometry x="-0.9415" y="-3" relative="1" as="geometry">
+            <mxPoint y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sgNHsKeXC-34GHNsJ1Wm-84" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="sgNHsKeXC-34GHNsJ1Wm-80" target="sgNHsKeXC-34GHNsJ1Wm-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="2107" />
+              <mxPoint x="90" y="1455" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sgNHsKeXC-34GHNsJ1Wm-85" value="拒绝/异常" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sgNHsKeXC-34GHNsJ1Wm-84">
+          <mxGeometry x="-0.9305" y="3" relative="1" as="geometry">
+            <mxPoint y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sgNHsKeXC-34GHNsJ1Wm-80" value="审批是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="2080" width="100" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
