@@ -331,6 +331,24 @@
         <mxCell id="_LqGYvQfzl3VxhFTOncM-80" value="发起验收" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
           <mxGeometry x="1193.69" y="2180" width="97.54" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="_LqGYvQfzl3VxhFTOncM-81" value="需求终止" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="830" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_LqGYvQfzl3VxhFTOncM-85" value="需求终止" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;rotation=-15;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="1410" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_LqGYvQfzl3VxhFTOncM-86" value="需求终止" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;rotation=-60;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1610" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_LqGYvQfzl3VxhFTOncM-89" value="需求终止" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;rotation=-15;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="1777.5" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_LqGYvQfzl3VxhFTOncM-90" value="需求终止" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="1055" y="2090" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_LqGYvQfzl3VxhFTOncM-91" value="需求终止" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="2300" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
