@@ -1,9 +1,87 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="第 1 页" id="GcVT2Dga8qm7mE0WxSwT">
-    <mxGraphModel>
+    <mxGraphModel dx="2060" dy="1107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="q2WbR-t3I_NdyIIgRwOS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="q2WbR-t3I_NdyIIgRwOS-1" target="q2WbR-t3I_NdyIIgRwOS-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q2WbR-t3I_NdyIIgRwOS-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="q2WbR-t3I_NdyIIgRwOS-1" target="q2WbR-t3I_NdyIIgRwOS-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q2WbR-t3I_NdyIIgRwOS-1" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;A1&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="480" y="320" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q2WbR-t3I_NdyIIgRwOS-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="q2WbR-t3I_NdyIIgRwOS-2" target="q2WbR-t3I_NdyIIgRwOS-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q2WbR-t3I_NdyIIgRwOS-2" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;B1&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="600" y="240" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q2WbR-t3I_NdyIIgRwOS-3" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;B2&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="600" y="400" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q2WbR-t3I_NdyIIgRwOS-4" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;C1&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="720" y="240" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q2WbR-t3I_NdyIIgRwOS-41" value="main线程" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0000FF;gradientColor=#7F00FF;strokeColor=#666666;gradientDirection=north;fontColor=#FFFFFF;glass=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="220" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q2WbR-t3I_NdyIIgRwOS-42" value="A1 线程" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0000FF;gradientColor=#7F00FF;strokeColor=#666666;gradientDirection=north;fontColor=#FFFFFF;glass=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="270" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q2WbR-t3I_NdyIIgRwOS-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="220" width="760" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q2WbR-t3I_NdyIIgRwOS-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="270" width="760" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q2WbR-t3I_NdyIIgRwOS-49" value="B1 线程" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0000FF;gradientColor=#7F00FF;strokeColor=#666666;gradientDirection=north;fontColor=#FFFFFF;glass=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q2WbR-t3I_NdyIIgRwOS-50" value="B2 线程" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0000FF;gradientColor=#7F00FF;strokeColor=#666666;gradientDirection=north;fontColor=#FFFFFF;glass=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="370" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q2WbR-t3I_NdyIIgRwOS-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="320" width="760" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q2WbR-t3I_NdyIIgRwOS-52" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="370" width="760" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q2WbR-t3I_NdyIIgRwOS-53" value="C1 线程" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0000FF;gradientColor=#7F00FF;strokeColor=#666666;gradientDirection=north;fontColor=#FFFFFF;glass=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="420" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q2WbR-t3I_NdyIIgRwOS-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="420" width="760" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q2WbR-t3I_NdyIIgRwOS-20" value="计算 C1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66FF66;gradientColor=#FFFF33;gradientDirection=north;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="420" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q2WbR-t3I_NdyIIgRwOS-55" value="计算 B2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66FF66;gradientColor=#FFFF33;gradientDirection=north;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="370" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q2WbR-t3I_NdyIIgRwOS-56" value="计算 B1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66FF66;gradientColor=#FFFF33;gradientDirection=north;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="320" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q2WbR-t3I_NdyIIgRwOS-57" value="计算 A1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66FF66;gradientColor=#FFFF33;gradientDirection=north;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="270" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q2WbR-t3I_NdyIIgRwOS-58" value="合并结果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66FF66;gradientColor=#FFFF00;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="220" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q2WbR-t3I_NdyIIgRwOS-60" value="return CompletableFuture&amp;lt;Object&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="425" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q2WbR-t3I_NdyIIgRwOS-61" value="return CompletableFuture&amp;lt;Object&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="375" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q2WbR-t3I_NdyIIgRwOS-62" value="CompletableFuture.allOf([C1])" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="325" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q2WbR-t3I_NdyIIgRwOS-64" value="CompletableFuture.allOf([B1, B2]&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="275" width="240" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
