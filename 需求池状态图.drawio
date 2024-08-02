@@ -313,8 +313,8 @@
         <mxCell id="qgJqCZxHj2D4JbPyjESp-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="qgJqCZxHj2D4JbPyjESp-96" target="qgJqCZxHj2D4JbPyjESp-39" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1411" y="2410" />
-              <mxPoint x="1411" y="1993" />
+              <mxPoint x="1590" y="2410" />
+              <mxPoint x="1590" y="1993" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -505,7 +505,7 @@
           <mxGeometry x="1913" y="1854" width="158" height="117" as="geometry" />
         </mxCell>
         <mxCell id="FUP94ncfJCfUUYkLqNeV-73" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 19px; background-color: rgb(255, 51, 51);&quot;&gt;&amp;nbsp;提交评审&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1520.25" y="2003" as="geometry">
+          <mxGeometry x="1535" y="2004" as="geometry">
             <mxPoint x="-314" y="403" as="offset" />
           </mxGeometry>
         </mxCell>
