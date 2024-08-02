@@ -371,7 +371,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qgJqCZxHj2D4JbPyjESp-111" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;发送需求提交消息&lt;div style=&quot;font-size: 15px;&quot;&gt;@全体成员&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 15px; text-align: start; text-wrap: nowrap;&quot;&gt;@%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E5%88%9B%E5%BB%BA%E9%9C%80%E6%B1%82%E4%B8%8B%26lt%3Bdiv%26gt%3B%E7%BA%BF%26lt%3Bspan%20style%3D%26quot%3Bbackground-color%3A%20initial%3B%26quot%3B%26gt%3B%E5%AE%A1%E6%89%B9%E5%B7%A5%E5%8D%95%26lt%3B%2Fspan%26gt%3B%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221120%22%20y%3D%22860%22%20width%3D%22100%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF66;strokeColor=#6c8ebf;arcSize=50;gradientColor=none;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="1183" y="1657" width="137" height="49" as="geometry" />
+          <mxGeometry x="1184.5" y="1619" width="137" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qgJqCZxHj2D4JbPyjESp-112" value="特征类型" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1213" y="1965.5" width="80" height="55" as="geometry" />
@@ -380,14 +380,16 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2738" y="1758.25" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2478" y="2248" />
-              <mxPoint x="2856" y="2248" />
+              <mxPoint x="2856" y="2122" />
               <mxPoint x="2856" y="644" />
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="FUP94ncfJCfUUYkLqNeV-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;strokeColor=#FF3333;" edge="1" parent="1" source="qgJqCZxHj2D4JbPyjESp-115" target="qgJqCZxHj2D4JbPyjESp-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qgJqCZxHj2D4JbPyjESp-115" value="审核拒绝" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fillColor=#007FFF;strokeColor=#36393d;fontColor=#FFFFFF;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="2398" y="2207" width="80" height="80" as="geometry" />
+          <mxGeometry x="2398" y="2082" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qgJqCZxHj2D4JbPyjESp-117" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;工单&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=2;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="818" y="613" width="70" height="40" as="geometry" />
@@ -497,7 +499,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FUP94ncfJCfUUYkLqNeV-86" value="&amp;nbsp;编辑&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=#000000;textShadow=1;fontSize=19;spacingTop=0;spacingLeft=0;labelBackgroundColor=#FF3333;fontColor=#FFFFFF;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2588.500000000001" y="2246.999999999998" as="geometry" />
+          <mxGeometry x="2556.000000000001" y="2121.999999999998" as="geometry" />
         </mxCell>
         <mxCell id="FUP94ncfJCfUUYkLqNeV-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FUP94ncfJCfUUYkLqNeV-90" target="qgJqCZxHj2D4JbPyjESp-97">
           <mxGeometry relative="1" as="geometry" />
@@ -523,6 +525,11 @@
         </mxCell>
         <mxCell id="FUP94ncfJCfUUYkLqNeV-92" value="创建特征变更&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;审批工单&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66FFFF;gradientColor=none;strokeColor=#d6b656;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="2179" y="1570" width="143" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="FUP94ncfJCfUUYkLqNeV-104" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&amp;nbsp;需求终止&amp;nbsp;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=#000000;fontSize=19;spacingTop=0;spacingLeft=0;textShadow=1;labelBackgroundColor=#FF3333;fontColor=#FFFFFF;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1773.996666666667" y="2391" as="geometry">
+            <mxPoint x="560" y="-148" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
